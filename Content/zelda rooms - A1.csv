@@ -1,0 +1,10 @@
+BlackBlock,BlackBlock,BlackBlock,BlackBlock,BlackBlock,BlackBlock,BlackBlock,BlackBlock,BlackBlock,BlackBlock,BlackBlock,BlackBlock,BlackBlock,BlackBlock,BlackBlock,BlackBlock
+BlackBlock,InvisibleBlock,InvisibleBlock,InvisibleBlock,InvisibleBlock,InvisibleBlock,InvisibleBlock,InvisibleBlock,InvisibleBlock,InvisibleBlock,InvisibleBlock,InvisibleBlock,InvisibleBlock,InvisibleBlock,InvisibleBlock,BlackBlock
+BlackBlock,InvisibleBlock,,ArrowItem,,,BombItem,,,BoomerangItem,,,,,InvisibleBlock,BlackBlock
+BlackBlock,InvisibleBlock,,,,,,,,BowItem,,,,,InvisibleBlock,BlackBlock
+BlackBlock,InvisibleBlock,,,,,,,,,,,,,InvisibleBlock,BlackBlock
+BlackBlock,InvisibleBlock,,,,ClockItem,,,,,,,,,InvisibleBlock,BlackBlock
+BlackBlock,InvisibleBlock,,,BlueRupeeItem,,,,,,CompassItem,,FairyItem,,InvisibleBlock,BlackBlock
+BlackBlock,InvisibleBlock,,,HeartContainerItem,,,HeartItem,,,KeyItem,,,,InvisibleBlock,BlackBlock
+BlackBlock,InvisibleBlock,,,,MapItem,,,RupeeItem,,TriforcePieceItem,,,,InvisibleBlock,BlackBlock
+BlackBlock,InvisibleBlock,InvisibleBlock,InvisibleBlock,InvisibleBlock,InvisibleBlock,InvisibleBlock,InvisibleBlock,InvisibleBlock,InvisibleBlock,InvisibleBlock,InvisibleBlock,InvisibleBlock,InvisibleBlock,InvisibleBlock,BlackBlock
